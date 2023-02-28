@@ -1,7 +1,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FDF5E6&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ece7d5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Sidney+Daniel;Sou+Estudante;Sou+Programador;Curso+Análise+e+Desnvolvimento+de+Sistemas;Seja+bem+vindo+ao+meu+perfil!+&#128075;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ece7d5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Sidney+Daniel;Sou+Estudante;Sou+Programador;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo+ao+meu+perfil!+&#128075;)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=SidneyDaniel&icon=1&color=12)](https://visitcount.itsvg.in)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sidneydaniel.github.io/Portif-lio/)
@@ -10,9 +10,15 @@
 
 
 
+<img src="https://user-images.githubusercontent.com/102486000/221957628-1ad8520c-4c6f-4e18-8d1d-ae5df7b87c14.gif"  align="right" min-width="250px" max-width="400px" width="400px">
+
 
 # 💭 Sobre Mim:
-<p>Olá, meu nom é Sidney Dnb</p>
+<p>
+ Olá, meu nome é Sidney Daniel sou estudante na área de TIm, recém formado no programa Oracle, tenho como hobbies games, livros e música.<br>
+ Sou entusiasta do mundo da tenoclogia sempre buscando saber mais sobre esse mundo que não para de evoluir com o passar dos anos<br>
+ 
+</p>
  
 
 
