@@ -15,7 +15,7 @@
 
 # 💭 Sobre Mim:
 <p>
- Olá, meu nome é Sidney Daniel sou estudante na área de TIm, recém formado no programa Oracle, tenho como hobbies games, livros e música.<br>
+ Olá, meu nome é Sidney Daniel sou estudante na área de TI, recém formado no programa Oracle, tenho como hobbies games, livros e música.<br>
  Sou entusiasta do mundo da tenoclogia sempre buscando saber mais sobre esse mundo que não para de evoluir com o passar dos anos<br>
  
 </p>
