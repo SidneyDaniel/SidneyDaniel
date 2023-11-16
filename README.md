@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=ece7d5&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Sidney+Daniel;Sou+Estudante;Sou+Programador;Curso+Análise+e+Desenvolvimento+de+Sistemas;Seja+bem+vindo+ao+meu+perfil!+&#128075;)](https://git.io/typing-svg)
 
 [![](https://visitcount.itsvg.in/api?id=SidneyDaniel&icon=1&color=12)](https://visitcount.itsvg.in)
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sidneydaniel.github.io/Portif-lio/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://sidneydaniel.github.io/NewPortif-lio/)
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SidneyDaniel&bg_color=0d1117&color=ececec&line=ece7d5&point=fff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
